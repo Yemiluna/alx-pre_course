@@ -1,3 +1,3 @@
-this is yemiluna. 
-I am alx student and i am proud.
+This is yemiluna. 
+I am ALX student.
 
